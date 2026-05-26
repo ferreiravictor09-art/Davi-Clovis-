@@ -3,6 +3,8 @@
   <h3 align="center">jogos e filmes </h3>
 </div>
 
+<img src="https://raw.githubusercontent.com/ferreiravictor09-art/Davi-Clovis-/refs/heads/main/octocat-1779805773208.png" width="450" alt="GIF" style="border-radius: 0px;"/>
+
 <div align="center">
   <a href="https://github.com/ferreiravictor09-art" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a> <a href="https://instagram.com/victor.h_1" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
 </div>
